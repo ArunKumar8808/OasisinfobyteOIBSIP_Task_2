@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.main {
+    margin: 5% 15%;
+    padding: 1%;
+    background-color: #bbbbbb;
+    border-radius: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+}
+
+p {
+    text-indent: 2%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px 5px 0 0;
+}
+
+.imgtext {
+    border-radius: 5px;
+    max-width: 780px;
+    margin: 20px auto;
+    text-align: center;
+    background-color: #dddddd;
+}
+
+@media (max-width: 500px) {
+    .main {
+        margin: 5% 10%;
+    }
+
+    p {
+        font-size: 0.9rem;
+        line-height: 110%;
+    }
+
+    h1 {
+        font-size: 2.0rem;
+    }
+
+    h2 {
+        font-size: 1.5rem;
+    }
+
+    h4 {
+        font-size: 1.3rem;
+    }
+
+    .imgtext {
+        line-height: 100%;
+        padding-bottom: 1%;
+    }
+}
+
+.main {
+    margin: 5% 15%;
+    padding: 1%;
+    background-color: #bbbbbb;
+    border-radius: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+}
+
+p {
+    text-indent: 2%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px 5px 0 0;
+}
+
+.imgtext {
+    border-radius: 5px;
+    max-width: 780px;
+    margin: 20px auto;
+    text-align: center;
+    background-color: #dddddd;
+}
+
+@media (max-width: 500px) {
+    .main {
+        margin: 5% 10%;
+    }
+
+    p {
+        font-size: 0.9rem;
+        line-height: 110%;
+    }
+
+    h1 {
+        font-size: 2.0rem;
+    }
+
+    h2 {
+        font-size: 1.5rem;
+    }
+
+    h4 {
+        font-size: 1.3rem;
+    }
+
+    .imgtext {
+        line-height: 100%;
+        padding-bottom: 1%;
+    }
+}
+
+footer {
+    color: #d96c00;
+    font-weight: bold;
+    font-family: "Book Antiqua";
+    height: 3%;
+    bottom: -34px;
+}
+
+.welcome {
+    margin-top: 30px;
+}
